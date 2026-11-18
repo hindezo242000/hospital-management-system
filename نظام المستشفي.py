@@ -122,4 +122,4 @@ for appointment in appo:
     if appointment.id == 2:
         appointment.show_appo()
         
-print("Patient update feature")
+print("Doctor update feature")
